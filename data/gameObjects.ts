@@ -10,7 +10,7 @@ export const gameObjects: GameObject[] = [
     value: 634000000,
     valueLabel: 'Instagram followers',
     tags: ['football', 'athlete', 'portugal'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Cristiano%20Ronaldo',
     popularityLevel: 'easy',
   },
   {
@@ -21,7 +21,7 @@ export const gameObjects: GameObject[] = [
     value: 504000000,
     valueLabel: 'Instagram followers',
     tags: ['football', 'athlete', 'argentina'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Lionel%20Messi',
     popularityLevel: 'easy',
   },
   {
@@ -32,7 +32,7 @@ export const gameObjects: GameObject[] = [
     value: 228000000,
     valueLabel: 'Instagram followers',
     tags: ['football', 'athlete', 'brazil'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/92/Neymar_Jr._with_Al_Hilal%2C_23_September_2023_-_03_%28cropped%29.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Neymar%20Jr',
     popularityLevel: 'easy',
   },
   {
@@ -43,7 +43,7 @@ export const gameObjects: GameObject[] = [
     value: 123000000,
     valueLabel: 'Instagram followers',
     tags: ['football', 'athlete', 'france'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/57/2022_FIFA_World_Cup_France_4%E2%80%931_Australia_-_%2882%29_%28cropped%29.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Kylian%20Mbapp%C3%A9',
     popularityLevel: 'easy',
   },
   {
@@ -54,7 +54,7 @@ export const gameObjects: GameObject[] = [
     value: 42000000,
     valueLabel: 'Instagram followers',
     tags: ['football', 'athlete', 'norway'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Erling_Haaland_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Erling%20Haaland',
     popularityLevel: 'medium',
   },
   {
@@ -65,7 +65,7 @@ export const gameObjects: GameObject[] = [
     value: 35000000,
     valueLabel: 'Instagram followers',
     tags: ['football', 'athlete', 'england'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/7f/Jude_Bellingham_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Jude%20Bellingham',
     popularityLevel: 'medium',
   },
   {
@@ -76,7 +76,7 @@ export const gameObjects: GameObject[] = [
     value: 38000000,
     valueLabel: 'Instagram followers',
     tags: ['football', 'athlete', 'brazil'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/98/Vinicius_Junior_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Vinicius%20Jr',
     popularityLevel: 'medium',
   },
   {
@@ -87,7 +87,7 @@ export const gameObjects: GameObject[] = [
     value: 18000000,
     valueLabel: 'Instagram followers',
     tags: ['football', 'athlete', 'england'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Bukayo_Saka_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Bukayo%20Saka',
     popularityLevel: 'medium',
   },
   {
@@ -98,7 +98,7 @@ export const gameObjects: GameObject[] = [
     value: 12000000,
     valueLabel: 'Instagram followers',
     tags: ['football', 'athlete', 'spain'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/7e/Pedri_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Pedri',
     popularityLevel: 'hard',
   },
   {
@@ -109,7 +109,7 @@ export const gameObjects: GameObject[] = [
     value: 9500000,
     valueLabel: 'Instagram followers',
     tags: ['football', 'athlete', 'spain'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Gavi_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Gavi',
     popularityLevel: 'hard',
   },
 
@@ -122,7 +122,7 @@ export const gameObjects: GameObject[] = [
     value: 283000000,
     valueLabel: 'Instagram followers',
     tags: ['music', 'singer', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b5/191125_Taylor_Swift_at_the_2019_American_Music_Awards.png',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Taylor%20Swift',
     popularityLevel: 'easy',
   },
   {
@@ -133,7 +133,7 @@ export const gameObjects: GameObject[] = [
     value: 318000000,
     valueLabel: 'Instagram followers',
     tags: ['music', 'singer', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6d/Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%28cropped%29.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Beyonc%C3%A9',
     popularityLevel: 'easy',
   },
   {
@@ -144,7 +144,7 @@ export const gameObjects: GameObject[] = [
     value: 380000000,
     valueLabel: 'Instagram followers',
     tags: ['music', 'singer', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/d/dd/Ariana_Grande_Grammys_Red_Carpet_2020.png',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Ariana%20Grande',
     popularityLevel: 'easy',
   },
   {
@@ -155,7 +155,7 @@ export const gameObjects: GameObject[] = [
     value: 146000000,
     valueLabel: 'Instagram followers',
     tags: ['music', 'rapper', 'canada'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Drake_at_The_Boy_Meets_World_Tour_2017.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Drake',
     popularityLevel: 'easy',
   },
   {
@@ -166,7 +166,7 @@ export const gameObjects: GameObject[] = [
     value: 75000000,
     valueLabel: 'Instagram followers',
     tags: ['music', 'singer', 'canada'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/95/The_Weeknd_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=The%20Weeknd',
     popularityLevel: 'medium',
   },
   {
@@ -177,7 +177,7 @@ export const gameObjects: GameObject[] = [
     value: 88000000,
     valueLabel: 'Instagram followers',
     tags: ['music', 'singer', 'uk'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Dua_Lipa_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Dua%20Lipa',
     popularityLevel: 'medium',
   },
   {
@@ -188,7 +188,7 @@ export const gameObjects: GameObject[] = [
     value: 35000000,
     valueLabel: 'Instagram followers',
     tags: ['music', 'singer', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Olivia_Rodrigo_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Olivia%20Rodrigo',
     popularityLevel: 'medium',
   },
   {
@@ -199,7 +199,7 @@ export const gameObjects: GameObject[] = [
     value: 28000000,
     valueLabel: 'Instagram followers',
     tags: ['music', 'singer', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Sabrina_Carpenter_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Sabrina%20Carpenter',
     popularityLevel: 'medium',
   },
   {
@@ -210,7 +210,7 @@ export const gameObjects: GameObject[] = [
     value: 8500000,
     valueLabel: 'Instagram followers',
     tags: ['music', 'singer', 'south-africa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4e/Tyla_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Tyla',
     popularityLevel: 'hard',
   },
   {
@@ -221,7 +221,7 @@ export const gameObjects: GameObject[] = [
     value: 6200000,
     valueLabel: 'Instagram followers',
     tags: ['music', 'singer', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Chappell_Roan_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Chappell%20Roan',
     popularityLevel: 'hard',
   },
 
@@ -234,7 +234,7 @@ export const gameObjects: GameObject[] = [
     value: 12000000,
     valueLabel: 'Instagram followers',
     tags: ['movies', 'actor', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/37/Tom_Cruise_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Tom%20Cruise',
     popularityLevel: 'easy',
   },
   {
@@ -245,7 +245,7 @@ export const gameObjects: GameObject[] = [
     value: 397000000,
     valueLabel: 'Instagram followers',
     tags: ['movies', 'actor', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Dwayne_Johnson_2018.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Dwayne%20Johnson',
     popularityLevel: 'easy',
   },
   {
@@ -256,7 +256,7 @@ export const gameObjects: GameObject[] = [
     value: 184000000,
     valueLabel: 'Instagram followers',
     tags: ['movies', 'actress', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/2/28/Zendaya_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Zendaya',
     popularityLevel: 'easy',
   },
   {
@@ -267,7 +267,7 @@ export const gameObjects: GameObject[] = [
     value: 19000000,
     valueLabel: 'Instagram followers',
     tags: ['movies', 'actor', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Timoth%C3%A9e_Chalamet_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Timoth%C3%A9e%20Chalamet',
     popularityLevel: 'medium',
   },
   {
@@ -278,7 +278,7 @@ export const gameObjects: GameObject[] = [
     value: 9500000,
     valueLabel: 'Instagram followers',
     tags: ['movies', 'actress', 'uk'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Florence_Pugh_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Florence%20Pugh',
     popularityLevel: 'medium',
   },
   {
@@ -289,7 +289,7 @@ export const gameObjects: GameObject[] = [
     value: 5200000,
     valueLabel: 'Instagram followers',
     tags: ['movies', 'actor', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Austin_Butler_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Austin%20Butler',
     popularityLevel: 'hard',
   },
   {
@@ -300,7 +300,7 @@ export const gameObjects: GameObject[] = [
     value: 11000000,
     valueLabel: 'Instagram followers',
     tags: ['movies', 'actress', 'uk'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4e/Anya_Taylor-Joy_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Anya%20Taylor-Joy',
     popularityLevel: 'medium',
   },
   {
@@ -311,7 +311,7 @@ export const gameObjects: GameObject[] = [
     value: 4800000,
     valueLabel: 'Instagram followers',
     tags: ['movies', 'actor', 'australia'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Jacob_Elordi_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Jacob%20Elordi',
     popularityLevel: 'hard',
   },
 
@@ -324,7 +324,7 @@ export const gameObjects: GameObject[] = [
     value: 218000000,
     valueLabel: 'X (Twitter) followers',
     tags: ['tech', 'entrepreneur', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Elon%20Musk',
     popularityLevel: 'easy',
   },
   {
@@ -335,7 +335,7 @@ export const gameObjects: GameObject[] = [
     value: 12000000,
     valueLabel: 'Instagram followers',
     tags: ['tech', 'entrepreneur', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Mark%20Zuckerberg',
     popularityLevel: 'easy',
   },
   {
@@ -346,7 +346,7 @@ export const gameObjects: GameObject[] = [
     value: 6500000,
     valueLabel: 'Instagram followers',
     tags: ['tech', 'entrepreneur', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Bill_Gates_2017_%28cropped%29.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Bill%20Gates',
     popularityLevel: 'medium',
   },
   {
@@ -357,7 +357,7 @@ export const gameObjects: GameObject[] = [
     value: 5800000,
     valueLabel: 'Instagram followers',
     tags: ['tech', 'entrepreneur', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Jeff_Bezos_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Jeff%20Bezos',
     popularityLevel: 'medium',
   },
   {
@@ -368,7 +368,7 @@ export const gameObjects: GameObject[] = [
     value: 3200000,
     valueLabel: 'X (Twitter) followers',
     tags: ['tech', 'entrepreneur', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Sam_Altman_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Sam%20Altman',
     popularityLevel: 'hard',
   },
   {
@@ -379,7 +379,7 @@ export const gameObjects: GameObject[] = [
     value: 2100000,
     valueLabel: 'X (Twitter) followers',
     tags: ['tech', 'entrepreneur', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Sundar_Pichai_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Sundar%20Pichai',
     popularityLevel: 'hard',
   },
 
@@ -392,7 +392,7 @@ export const gameObjects: GameObject[] = [
     value: 24000000,
     valueLabel: 'YouTube subscribers',
     tags: ['gaming', 'streamer', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Ninja_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Ninja',
     popularityLevel: 'medium',
   },
   {
@@ -403,7 +403,7 @@ export const gameObjects: GameObject[] = [
     value: 111000000,
     valueLabel: 'YouTube subscribers',
     tags: ['gaming', 'youtuber', 'sweden'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/PewDiePie_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=PewDiePie',
     popularityLevel: 'easy',
   },
   {
@@ -414,7 +414,7 @@ export const gameObjects: GameObject[] = [
     value: 312000000,
     valueLabel: 'YouTube subscribers',
     tags: ['gaming', 'youtuber', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/MrBeast_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=MrBeast',
     popularityLevel: 'easy',
   },
   {
@@ -425,7 +425,7 @@ export const gameObjects: GameObject[] = [
     value: 43000000,
     valueLabel: 'YouTube subscribers',
     tags: ['gaming', 'youtuber', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4e/IShowSpeed_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=IShowSpeed',
     popularityLevel: 'medium',
   },
   {
@@ -436,7 +436,7 @@ export const gameObjects: GameObject[] = [
     value: 6500000,
     valueLabel: 'YouTube subscribers',
     tags: ['gaming', 'streamer', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Kai_Cenat_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Kai%20Cenat',
     popularityLevel: 'hard',
   },
   {
@@ -447,7 +447,7 @@ export const gameObjects: GameObject[] = [
     value: 4800000,
     valueLabel: 'YouTube subscribers',
     tags: ['gaming', 'youtuber', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/CaseOh_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=CaseOh',
     popularityLevel: 'hard',
   },
 
@@ -460,7 +460,7 @@ export const gameObjects: GameObject[] = [
     value: 152000000,
     valueLabel: 'TikTok followers',
     tags: ['social', 'influencer', 'usa'],
-    image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Charli_D%27Amelio_2023.jpg",
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Charli%20D%27Amelio',
     popularityLevel: 'easy',
   },
   {
@@ -471,7 +471,7 @@ export const gameObjects: GameObject[] = [
     value: 162000000,
     valueLabel: 'TikTok followers',
     tags: ['social', 'influencer', 'italy'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Khaby_Lame_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Khaby%20Lame',
     popularityLevel: 'easy',
   },
   {
@@ -482,7 +482,7 @@ export const gameObjects: GameObject[] = [
     value: 93000000,
     valueLabel: 'TikTok followers',
     tags: ['social', 'influencer', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4e/Bella_Poarch_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Bella%20Poarch',
     popularityLevel: 'medium',
   },
   {
@@ -493,7 +493,7 @@ export const gameObjects: GameObject[] = [
     value: 88000000,
     valueLabel: 'TikTok followers',
     tags: ['social', 'influencer', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Addison_Rae_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Addison%20Rae',
     popularityLevel: 'medium',
   },
   {
@@ -504,7 +504,7 @@ export const gameObjects: GameObject[] = [
     value: 32000000,
     valueLabel: 'TikTok followers',
     tags: ['social', 'influencer', 'usa'],
-    image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Dixie_D%27Amelio_2023.jpg",
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Dixie%20D%27Amelio',
     popularityLevel: 'medium',
   },
   {
@@ -515,7 +515,7 @@ export const gameObjects: GameObject[] = [
     value: 55000000,
     valueLabel: 'TikTok followers',
     tags: ['social', 'influencer', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4e/Spencer_X_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/avataaars/svg?seed=Spencer%20X',
     popularityLevel: 'medium',
   },
 
@@ -528,7 +528,7 @@ export const gameObjects: GameObject[] = [
     value: 182000000,
     valueLabel: 'Netflix views (hours)',
     tags: ['streaming', 'tv', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Stranger_Things_logo.png',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Stranger%20Things',
     popularityLevel: 'easy',
   },
   {
@@ -539,7 +539,7 @@ export const gameObjects: GameObject[] = [
     value: 150000000,
     valueLabel: 'Netflix views (hours)',
     tags: ['streaming', 'tv', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Wednesday_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Wednesday',
     popularityLevel: 'easy',
   },
   {
@@ -550,7 +550,7 @@ export const gameObjects: GameObject[] = [
     value: 165000000,
     valueLabel: 'Netflix views (hours)',
     tags: ['streaming', 'tv', 'korea'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Squid_Game_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Squid%20Game',
     popularityLevel: 'easy',
   },
   {
@@ -561,7 +561,7 @@ export const gameObjects: GameObject[] = [
     value: 76000000,
     valueLabel: 'Netflix views (hours)',
     tags: ['streaming', 'tv', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4e/The_Witcher_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=The%20Witcher',
     popularityLevel: 'medium',
   },
   {
@@ -572,7 +572,7 @@ export const gameObjects: GameObject[] = [
     value: 55000000,
     valueLabel: 'Netflix views (hours)',
     tags: ['streaming', 'tv', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/You_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=You',
     popularityLevel: 'medium',
   },
   {
@@ -583,7 +583,7 @@ export const gameObjects: GameObject[] = [
     value: 28000000,
     valueLabel: 'Netflix views (hours)',
     tags: ['streaming', 'tv', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Sandman_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=The%20Sandman',
     popularityLevel: 'hard',
   },
 
@@ -596,7 +596,7 @@ export const gameObjects: GameObject[] = [
     value: 305000000,
     valueLabel: 'Instagram followers',
     tags: ['brands', 'fashion', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg',
+    image: 'https://cdn.simpleicons.org/nike',
     popularityLevel: 'easy',
   },
   {
@@ -607,7 +607,7 @@ export const gameObjects: GameObject[] = [
     value: 29000000,
     valueLabel: 'Instagram followers',
     tags: ['brands', 'fashion', 'germany'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/2/20/Adidas_Logo.svg',
+    image: 'https://cdn.simpleicons.org/adidas',
     popularityLevel: 'easy',
   },
   {
@@ -618,7 +618,7 @@ export const gameObjects: GameObject[] = [
     value: 52000000,
     valueLabel: 'Instagram followers',
     tags: ['brands', 'fashion', 'italy'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/79/Gucci_Logo.svg',
+    image: 'https://cdn.simpleicons.org/gucci',
     popularityLevel: 'medium',
   },
   {
@@ -629,7 +629,7 @@ export const gameObjects: GameObject[] = [
     value: 54000000,
     valueLabel: 'Instagram followers',
     tags: ['brands', 'fashion', 'france'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/76/Louis_Vuitton_logo_and_wordmark.svg',
+    image: 'https://cdn.simpleicons.org/louisvuitton',
     popularityLevel: 'medium',
   },
   {
@@ -640,7 +640,7 @@ export const gameObjects: GameObject[] = [
     value: 18000000,
     valueLabel: 'Instagram followers',
     tags: ['brands', 'fashion', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/2/26/Supreme_Logo.svg',
+    image: 'https://api.dicebear.com/9.x/initials/svg?seed=Supreme',
     popularityLevel: 'medium',
   },
   {
@@ -651,7 +651,7 @@ export const gameObjects: GameObject[] = [
     value: 12000000,
     valueLabel: 'Instagram followers',
     tags: ['brands', 'fashion', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Off-White_Logo.svg',
+    image: 'https://api.dicebear.com/9.x/initials/svg?seed=Off-White',
     popularityLevel: 'hard',
   },
 
@@ -664,7 +664,7 @@ export const gameObjects: GameObject[] = [
     value: 1425000000,
     valueLabel: 'Population',
     tags: ['countries', 'asia'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg',
+    image: 'https://flagcdn.com/w320/cn.png',
     popularityLevel: 'easy',
   },
   {
@@ -675,7 +675,7 @@ export const gameObjects: GameObject[] = [
     value: 1428000000,
     valueLabel: 'Population',
     tags: ['countries', 'asia'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg',
+    image: 'https://flagcdn.com/w320/in.png',
     popularityLevel: 'easy',
   },
   {
@@ -686,7 +686,7 @@ export const gameObjects: GameObject[] = [
     value: 335000000,
     valueLabel: 'Population',
     tags: ['countries', 'north-america'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg',
+    image: 'https://flagcdn.com/w320/us.png',
     popularityLevel: 'easy',
   },
   {
@@ -697,7 +697,7 @@ export const gameObjects: GameObject[] = [
     value: 277000000,
     valueLabel: 'Population',
     tags: ['countries', 'asia'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg',
+    image: 'https://flagcdn.com/w320/id.png',
     popularityLevel: 'medium',
   },
   {
@@ -708,7 +708,7 @@ export const gameObjects: GameObject[] = [
     value: 240000000,
     valueLabel: 'Population',
     tags: ['countries', 'asia'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg',
+    image: 'https://flagcdn.com/w320/pk.png',
     popularityLevel: 'medium',
   },
   {
@@ -719,7 +719,7 @@ export const gameObjects: GameObject[] = [
     value: 223000000,
     valueLabel: 'Population',
     tags: ['countries', 'africa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg',
+    image: 'https://flagcdn.com/w320/ng.png',
     popularityLevel: 'medium',
   },
   {
@@ -730,7 +730,7 @@ export const gameObjects: GameObject[] = [
     value: 216000000,
     valueLabel: 'Population',
     tags: ['countries', 'south-america'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg',
+    image: 'https://flagcdn.com/w320/br.png',
     popularityLevel: 'medium',
   },
   {
@@ -741,7 +741,7 @@ export const gameObjects: GameObject[] = [
     value: 173000000,
     valueLabel: 'Population',
     tags: ['countries', 'asia'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg',
+    image: 'https://flagcdn.com/w320/bd.png',
     popularityLevel: 'hard',
   },
   {
@@ -752,7 +752,7 @@ export const gameObjects: GameObject[] = [
     value: 144000000,
     valueLabel: 'Population',
     tags: ['countries', 'europe', 'asia'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg',
+    image: 'https://flagcdn.com/w320/ru.png',
     popularityLevel: 'easy',
   },
   {
@@ -763,7 +763,7 @@ export const gameObjects: GameObject[] = [
     value: 128000000,
     valueLabel: 'Population',
     tags: ['countries', 'north-america'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg',
+    image: 'https://flagcdn.com/w320/mx.png',
     popularityLevel: 'medium',
   },
   {
@@ -774,7 +774,7 @@ export const gameObjects: GameObject[] = [
     value: 123000000,
     valueLabel: 'Population',
     tags: ['countries', 'asia'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg',
+    image: 'https://flagcdn.com/w320/jp.png',
     popularityLevel: 'easy',
   },
   {
@@ -785,7 +785,7 @@ export const gameObjects: GameObject[] = [
     value: 126000000,
     valueLabel: 'Population',
     tags: ['countries', 'africa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg',
+    image: 'https://flagcdn.com/w320/et.png',
     popularityLevel: 'hard',
   },
 
@@ -798,7 +798,7 @@ export const gameObjects: GameObject[] = [
     value: 8500000,
     valueLabel: 'Monthly Google searches',
     tags: ['food', 'italian'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Pizza',
     popularityLevel: 'easy',
   },
   {
@@ -809,7 +809,7 @@ export const gameObjects: GameObject[] = [
     value: 6200000,
     valueLabel: 'Monthly Google searches',
     tags: ['food', 'japanese'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Sushi_platter.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Sushi',
     popularityLevel: 'easy',
   },
   {
@@ -820,7 +820,7 @@ export const gameObjects: GameObject[] = [
     value: 12000000,
     valueLabel: 'Monthly Google searches',
     tags: ['food', 'american'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/4/47/Hamburger_%28black_bg%29.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Burger',
     popularityLevel: 'easy',
   },
   {
@@ -831,7 +831,7 @@ export const gameObjects: GameObject[] = [
     value: 4800000,
     valueLabel: 'Monthly Google searches',
     tags: ['food', 'mexican'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/73/001_Tacos_carnitas%2C_carne_asada_y_al_pastor.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Tacos',
     popularityLevel: 'medium',
   },
   {
@@ -842,7 +842,7 @@ export const gameObjects: GameObject[] = [
     value: 5500000,
     valueLabel: 'Monthly Google searches',
     tags: ['food', 'japanese'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Shoyu_Ramen.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Ramen',
     popularityLevel: 'medium',
   },
   {
@@ -853,7 +853,7 @@ export const gameObjects: GameObject[] = [
     value: 3200000,
     valueLabel: 'Monthly Google searches',
     tags: ['food', 'vietnamese'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/53/Pho-Beef-Noodles-2008.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Pho',
     popularityLevel: 'medium',
   },
   {
@@ -864,7 +864,7 @@ export const gameObjects: GameObject[] = [
     value: 2800000,
     valueLabel: 'Monthly Google searches',
     tags: ['food', 'thai'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Pad_Thai.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Pad%20Thai',
     popularityLevel: 'hard',
   },
   {
@@ -875,7 +875,7 @@ export const gameObjects: GameObject[] = [
     value: 2200000,
     valueLabel: 'Monthly Google searches',
     tags: ['food', 'chinese'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Dim_Sum.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Dim%20Sum',
     popularityLevel: 'hard',
   },
 
@@ -888,7 +888,7 @@ export const gameObjects: GameObject[] = [
     value: 5000,
     valueLabel: 'Weight (kg)',
     tags: ['animals', 'mammal'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Elephant',
     popularityLevel: 'easy',
   },
   {
@@ -899,7 +899,7 @@ export const gameObjects: GameObject[] = [
     value: 150000,
     valueLabel: 'Weight (kg)',
     tags: ['animals', 'mammal', 'ocean'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Blue%20Whale',
     popularityLevel: 'easy',
   },
   {
@@ -910,7 +910,7 @@ export const gameObjects: GameObject[] = [
     value: 1200,
     valueLabel: 'Weight (kg)',
     tags: ['animals', 'mammal'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Giraffe_Mikumi_National_Park.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Giraffe',
     popularityLevel: 'easy',
   },
   {
@@ -921,7 +921,7 @@ export const gameObjects: GameObject[] = [
     value: 600,
     valueLabel: 'Weight (kg)',
     tags: ['animals', 'mammal'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/58/Polar_Bear_-_Alaska_%28cropped%29.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Polar%20Bear',
     popularityLevel: 'medium',
   },
   {
@@ -932,7 +932,7 @@ export const gameObjects: GameObject[] = [
     value: 1100,
     valueLabel: 'Weight (kg)',
     tags: ['animals', 'fish', 'ocean'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/56/White_shark.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Great%20White%20Shark',
     popularityLevel: 'medium',
   },
   {
@@ -943,7 +943,7 @@ export const gameObjects: GameObject[] = [
     value: 60,
     valueLabel: 'Weight (kg)',
     tags: ['animals', 'mammal'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3c/Cheetah_Running.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Cheetah',
     popularityLevel: 'easy',
   },
   {
@@ -954,7 +954,7 @@ export const gameObjects: GameObject[] = [
     value: 70,
     valueLabel: 'Weight (kg)',
     tags: ['animals', 'reptile'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Komodo_dragon_%28Varanus_komodoensis%29.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Komodo%20Dragon',
     popularityLevel: 'hard',
   },
   {
@@ -965,7 +965,7 @@ export const gameObjects: GameObject[] = [
     value: 130,
     valueLabel: 'Weight (kg)',
     tags: ['animals', 'bird'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Ostrich_%28Struthio_camelus%29.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Ostrich',
     popularityLevel: 'medium',
   },
 
@@ -978,7 +978,7 @@ export const gameObjects: GameObject[] = [
     value: 50000000,
     valueLabel: 'Units sold',
     tags: ['cars', 'japan'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/2023_Toyota_Corolla.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Toyota%20Corolla',
     popularityLevel: 'easy',
   },
   {
@@ -989,7 +989,7 @@ export const gameObjects: GameObject[] = [
     value: 41000000,
     valueLabel: 'Units sold',
     tags: ['cars', 'usa'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/2023_Ford_F-150.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Ford%20F-Series',
     popularityLevel: 'easy',
   },
   {
@@ -1000,7 +1000,7 @@ export const gameObjects: GameObject[] = [
     value: 35000000,
     valueLabel: 'Units sold',
     tags: ['cars', 'germany'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/2023_Volkswagen_Golf.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Volkswagen%20Golf',
     popularityLevel: 'medium',
   },
   {
@@ -1011,7 +1011,7 @@ export const gameObjects: GameObject[] = [
     value: 27000000,
     valueLabel: 'Units sold',
     tags: ['cars', 'japan'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/2023_Honda_Civic.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Honda%20Civic',
     popularityLevel: 'medium',
   },
   {
@@ -1022,7 +1022,7 @@ export const gameObjects: GameObject[] = [
     value: 5000000,
     valueLabel: 'Units sold',
     tags: ['cars', 'usa', 'electric'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Tesla_Model_3_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Tesla%20Model%203',
     popularityLevel: 'medium',
   },
   {
@@ -1033,7 +1033,7 @@ export const gameObjects: GameObject[] = [
     value: 500,
     valueLabel: 'Units produced',
     tags: ['cars', 'france', 'luxury'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Bugatti_Chiron_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Bugatti%20Chiron',
     popularityLevel: 'hard',
   },
   {
@@ -1044,7 +1044,7 @@ export const gameObjects: GameObject[] = [
     value: 499,
     valueLabel: 'Units produced',
     tags: ['cars', 'italy', 'luxury'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Ferrari_LaFerrari_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Ferrari%20LaFerrari',
     popularityLevel: 'hard',
   },
   {
@@ -1055,7 +1055,7 @@ export const gameObjects: GameObject[] = [
     value: 11465,
     valueLabel: 'Units produced',
     tags: ['cars', 'italy', 'luxury'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Lamborghini_Aventador_2023.jpg',
+    image: 'https://api.dicebear.com/9.x/shapes/svg?seed=Lamborghini%20Aventador',
     popularityLevel: 'hard',
   },
 ];
